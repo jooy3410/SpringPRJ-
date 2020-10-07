@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+D:\SpringPRG1\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2153843104.index
+\SpringForOracle\src
